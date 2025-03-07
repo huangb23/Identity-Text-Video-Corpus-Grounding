@@ -1,0 +1,3 @@
+The `cal_face_feat.ipynb` file can help you compute facial features for the images in the `photos` folder.
+
+If you need to train the Video-Locator model, you also need to download the original video frames and extract the features of the top three largest faces in each frame, storing them in feats/video_face_feat.h5, as well as the CLIP features of each frame, storing them in feats/video_clip_feat.h5.

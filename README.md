@@ -6,14 +6,10 @@ Official PyTorch implementation of the paper "Identity-Text Video Corpus Groundi
 
 
 
-
-
-
 ## News 🚀🚀🚀
 
+- `2025/03/07`: 🔥 We release the code of [Video-Locator](model).
 - `2025/01/15`: 🔥 We release the [TVR-IT data](data).
-
-
 
 
 
